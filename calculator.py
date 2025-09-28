@@ -3,7 +3,7 @@ import requests
 import json
 
 RENDER_URL = "https://my-streamlit-app.onrender.com"
-st.write(f"My app is hosted at: https://api-example-9.onrender.com")
+st.write(f"My app is hosted at: https://calculator-4-af24.onrender.com")
 
 st.title("Calculator App")
 st.write("This app connects to a FastAPI calculator service.")
